@@ -1,0 +1,10 @@
+
+.venv/
+.env
+__pycache__/
+.pytest_cache/
+*.pyc
+
+list_models.py
+test_gemini.py
+test_streaming.py
